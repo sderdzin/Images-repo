@@ -1,0 +1,256 @@
+{
+    "frames": {
+        "coin_animation-1 2.png": {
+            "frame": {
+                "x": 1,
+                "y": 1,
+                "w": 70,
+                "h": 70
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 70,
+                "h": 70
+            },
+            "sourceSize": {
+                "w": 70,
+                "h": 70
+            }
+        },
+        "coin_animation-10 2.png": {
+            "frame": {
+                "x": 73,
+                "y": 1,
+                "w": 70,
+                "h": 70
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 70,
+                "h": 70
+            },
+            "sourceSize": {
+                "w": 70,
+                "h": 70
+            }
+        },
+        "coin_animation-11 2.png": {
+            "frame": {
+                "x": 145,
+                "y": 1,
+                "w": 70,
+                "h": 70
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 70,
+                "h": 70
+            },
+            "sourceSize": {
+                "w": 70,
+                "h": 70
+            }
+        },
+        "coin_animation-12 2.png": {
+            "frame": {
+                "x": 1,
+                "y": 73,
+                "w": 70,
+                "h": 70
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 70,
+                "h": 70
+            },
+            "sourceSize": {
+                "w": 70,
+                "h": 70
+            }
+        },
+        "coin_animation-2 2.png": {
+            "frame": {
+                "x": 73,
+                "y": 73,
+                "w": 70,
+                "h": 70
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 70,
+                "h": 70
+            },
+            "sourceSize": {
+                "w": 70,
+                "h": 70
+            }
+        },
+        "coin_animation-3 2.png": {
+            "frame": {
+                "x": 145,
+                "y": 73,
+                "w": 70,
+                "h": 70
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 70,
+                "h": 70
+            },
+            "sourceSize": {
+                "w": 70,
+                "h": 70
+            }
+        },
+        "coin_animation-4 2.png": {
+            "frame": {
+                "x": 1,
+                "y": 145,
+                "w": 70,
+                "h": 70
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 70,
+                "h": 70
+            },
+            "sourceSize": {
+                "w": 70,
+                "h": 70
+            }
+        },
+        "coin_animation-5 2.png": {
+            "frame": {
+                "x": 73,
+                "y": 145,
+                "w": 70,
+                "h": 70
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 70,
+                "h": 70
+            },
+            "sourceSize": {
+                "w": 70,
+                "h": 70
+            }
+        },
+        "coin_animation-6 2.png": {
+            "frame": {
+                "x": 145,
+                "y": 145,
+                "w": 70,
+                "h": 70
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 70,
+                "h": 70
+            },
+            "sourceSize": {
+                "w": 70,
+                "h": 70
+            }
+        },
+        "coin_animation-7 2.png": {
+            "frame": {
+                "x": 217,
+                "y": 1,
+                "w": 70,
+                "h": 70
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 70,
+                "h": 70
+            },
+            "sourceSize": {
+                "w": 70,
+                "h": 70
+            }
+        },
+        "coin_animation-8 2.png": {
+            "frame": {
+                "x": 217,
+                "y": 73,
+                "w": 70,
+                "h": 70
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 70,
+                "h": 70
+            },
+            "sourceSize": {
+                "w": 70,
+                "h": 70
+            }
+        },
+        "coin_animation-9 2.png": {
+            "frame": {
+                "x": 217,
+                "y": 145,
+                "w": 70,
+                "h": 70
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 70,
+                "h": 70
+            },
+            "sourceSize": {
+                "w": 70,
+                "h": 70
+            }
+        }
+    },
+    "meta": {
+        "app": "https://www.codeandweb.com/texturepacker",
+        "version": "1.0",
+        "image": "spritesheet.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 288,
+            "h": 216
+        },
+        "scale": "1",
+        "comment": "Created with TexturePacker Online (free version)\nhttps://www.codeandweb.com/texturepacker-online\n\nTexturePacker desktop offers better support for Pixi and Phaser with sprite trimming, better packing algorithms, hardware texture compression, and PNG optimization.\nTry TexturePacker desktop: https://www.codeandweb.com/texturepacker"
+    }
+}
